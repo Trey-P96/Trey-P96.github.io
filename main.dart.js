@@ -71721,7 +71721,7 @@ A.a2E.prototype={
 $1(a){return B.mH},
 $S:166}
 A.HK.prototype={
-I(a){return A.pU(A.a([B.Rw,new A.Hy("We transform the way people work by putting clients at the center of business solutions. Our disruptive model converts possibilities into real business value. Let\u2019s build a better tomorrow.",null)],t.p),B.e0,B.GW,B.aW,B.c5)}}
+I(a){return A.pU(A.a([B.Rw,new A.Hy("We transform the way people work by putting clients at the center of business solutions. Our disruptive model converts possibilities into real business value. Let\u2019s build a better tomorrow.We transform the way people work by putting clients at the center of business solutions. Our disruptive model converts possibilities into real business value. Let\u2019s build a better tomorrow.We transform the way people work by putting clients at the center of business solutions. Our disruptive model converts possibilities into real business value. Let\u2019s build a better tomorrow.",null)],t.p),B.e0,B.GW,B.aW,B.c5)}}
 A.RA.prototype={
 I(a){var s=null
 return A.ht(B.aQ,A.a([new A.bQ(B.Cs,A.pO(new A.dl(450,80,A.Ej(s,"https://i.imgur.com/3O55w0C.png"),s),s,s),s),B.Qe],t.p),B.bD)}}

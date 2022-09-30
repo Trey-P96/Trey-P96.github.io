@@ -71653,12 +71653,12 @@ A.LQ.prototype={
 I(a){var s=null,r=t.w,q=A.d2(B.cL,a.P(r).f.a.a>600?A.Eg(s,"https://i.imgur.com/ugPSJSB.png"):s,s,s,s,s,s,s,B.n4,s)
 return A.JI(A.a([q,A.d2(B.cL,a.P(r).f.a.a>600?A.Eg(s,"https://i.imgur.com/e31zf1A.png"):s,s,s,s,s,s,s,B.n4,s)],t.p),B.aY,B.tP,B.aB)}}
 A.KU.prototype={
-I(a){return A.lm(A.a([new A.Rb(B.b.a2("This is a string that i want to work. ",600),null)],t.p),B.cU,B.bb,B.aB,B.bn)}}
+I(a){return A.lm(A.a([new A.Rb(B.b.a2("Is This is a string that i want to work. ",600),null)],t.p),B.cU,B.bb,B.aB,B.bn)}}
 A.Rb.prototype={
 I(a){return new A.wR(new A.ahn(this),null)}}
 A.ahn.prototype={
 $2(a,b){var s,r,q,p,o,n,m=null,l=t.s,k=A.a(this.a.c.split(" "),l),j=A.a([],l)
-for(l=b.b,s="",r="";k.length!==0;){s+=A.f(k[0])+" "
+for(l=b.b-25,s="",r="";k.length!==0;){s+=A.f(k[0])+" "
 q=new A.zt(A.hs(m,B.wQ,s),B.eZ,B.p,1,m,m,m,m,B.aP,m)
 q.NV()
 p=q.z

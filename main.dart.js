@@ -71938,7 +71938,7 @@ A.LW.prototype={
 I(a){var s=null,r=t.w,q=A.d2(B.cL,a.P(r).f.a.a>600?A.Ej(s,"https://i.imgur.com/ugPSJSB.png"):s,s,s,s,s,s,s,B.n4,s)
 return A.JN(A.a([q,A.d2(B.cL,a.P(r).f.a.a>600?A.Ej(s,"https://i.imgur.com/e31zf1A.png"):s,s,s,s,s,s,s,B.n4,s)],t.p),B.b6,B.tO,B.aM)}}
 A.KZ.prototype={
-I(a){return A.n5(A.a([new A.Rj(B.b.a3("Is this is a string that i want to work. ",60),null)],t.p),B.cU,B.bc,B.aM,B.aR)}}
+I(a){return A.n5(A.a([new A.Rj(B.b.a3("Is this is a string that i want to work. ",600),null)],t.p),B.cU,B.bc,B.aM,B.aR)}}
 A.Rj.prototype={
 I(a){return new A.wS(new A.ahv(this),null)}}
 A.ahv.prototype={
@@ -78371,7 +78371,7 @@ B.Lo=new A.x(!0,null,null,"MyRoboto",null,null,null,null,null,null,null,null,nul
 B.zm=new A.o(3506372608)
 B.LE=new A.x(!0,B.zm,null,"monospace",null,null,48,B.ha,null,null,null,null,null,null,null,null,null,B.lg,B.mG,B.wL,null,"fallback style; consider putting your text in a Material",null,null,null,null)
 B.LM=new A.x(!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.lg,null,null,null,null,null,null,null,null)
-B.wP=new A.x(!0,null,null,null,null,null,30,null,null,null,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.wP=new A.x(!0,null,null,null,null,null,10,null,null,null,null,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Nw=new A.x(!0,null,null,null,null,null,null,B.ck,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Lx=new A.x(!0,B.t,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity displayLarge",null,null,null,null)
 B.LY=new A.x(!0,B.t,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity displayMedium",null,null,null,null)

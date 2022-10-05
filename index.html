@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
   <!--
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
@@ -35,19 +34,15 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2168768890';
+    var serviceWorkerVersion = '1869670478';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
-  <script type="text/javascript">
-    let useHtml = false;
-    if(useHtml) {
-      window.flutterWebRenderer = "html";
-    } else {
-      window.flutterWebRenderer = "canvaskit";
-    }
+  <script>
+    if(screen.availWidth < 600 || screen.availHeight < 600) window.flutterWebRenderer = "html";
+    else{window.flutterWebRenderer = "canvaskit";}
   </script>
 
   <script>

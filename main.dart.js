@@ -74826,7 +74826,7 @@ A.Oj.prototype={
 I(a){var s=null,r=t.w,q=A.d3(B.cT,a.S(r).f.a.a>600?A.FN(s,"https://i.imgur.com/ugPSJSB.png"):s,s,s,s,s,s,s,B.nm,s)
 return A.M0(A.a([q,A.d3(B.cT,a.S(r).f.a.a>600?A.FN(s,"https://i.imgur.com/e31zf1A.png"):s,s,s,s,s,s,s,B.nm,s)],t.p),B.b1,B.u9,B.aF)}}
 A.Nm.prototype={
-I(a){return A.lY(A.a([new A.OJ(B.b.a3("now COME ON This is a text that i want to overflow. Hurry up and overflow.",100),null)],t.p),B.d0,B.b4,B.aF,B.br)}}
+I(a){return A.lY(A.a([new A.OJ(B.b.a3("k now COME ON This is a text that i want to overflow. Hurry up and overflow.",100),null)],t.p),B.d0,B.b4,B.aF,B.br)}}
 A.OJ.prototype={
 Bs(a){return this.a8D(a)},
 a8D(a){var s=0,r=A.X(t.yp),q,p=this,o,n,m,l,k,j,i,h,g,f,e

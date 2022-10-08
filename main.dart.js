@@ -74748,7 +74748,7 @@ kw(a,b){var s=b.f1($.Wi(),t.LO)
 return new A.dR(null,a.R(t.w).f.a.b-56,A.hR(B.aV,A.a([A.FL(B.fA,"https://i.imgur.com/nlql40f.png"),B.DT],t.p),B.l6),s)}}
 A.aeH.prototype={
 a8M(){var s,r=null,q=A.d5(r,r,r,r,B.yc,r,r,r,r),p=t.p,o=A.a([B.Fk,A.d5(r,r,B.l,r,r,1,r,r,r)],p)
-for(s=0;s<100;++s)o.push(B.Nf)
+for(s=0;s<1000;++s)o.push(B.Nf)
 return A.a([new A.MK(q,r),new A.MJ(new A.ace(!1,!1,o),r)],p)}}
 A.Ni.prototype={
 J(a){var s=null
@@ -81765,7 +81765,7 @@ B.NB=new A.AX(null,null,null)
 B.x6=new A.er(0,0,B.i,!1,0,0)
 B.NC=new A.er(0,1,B.i,!1,0,1)
 B.Pb=new A.x(!0,null,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ND=new A.lf("REPAINT This is a sentence i want to render. ",null,B.bK,B.Pb)
+B.ND=new A.lf("1000REPAINT This is a sentence i want to render. ",null,B.bK,B.Pb)
 B.NO=new A.x(!0,null,null,"MyRoboto",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Ba=new A.m(3506372608)
 B.O3=new A.x(!0,B.Ba,null,"monospace",null,null,48,B.hg,null,null,null,null,null,null,null,null,null,B.lm,B.mP,B.x1,null,"fallback style; consider putting your text in a Material",null,null,null,null)

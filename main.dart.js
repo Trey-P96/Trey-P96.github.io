@@ -57790,8 +57790,8 @@ if(s.b!=null)r.I(0,s.gwk())
 s.ar=b
 if(s.b!=null)b.Y(0,s.gwk())
 s.a6()},
-sa98(a){if(250===this.ao)return
-this.ao=250
+sa98(a){if(a===this.ao)return
+this.ao=a
 this.a6()},
 sa99(a){if(a===this.b9)return
 this.b9=a
@@ -71998,7 +71998,7 @@ A.Fn.prototype={
 J(a){return this.e.$2(a,this.f)}}
 A.Bp.prototype={
 av(a){var s=this,r=s.e,q=A.avK(a,r),p=A.al()
-r=new A.A2(s.r,r,q,s.w,250,B.mp,s.Q,p,0,null,null,A.al())
+r=new A.A2(s.r,r,q,s.w,s.y,B.mp,s.Q,p,0,null,null,A.al())
 r.au()
 r.O(0,null)
 q=r.a1$
@@ -75060,7 +75060,7 @@ for(q=0;q<20;++q)s.push(B.f.dL(q,2)===0?B.E8:B.E7)
 this.d=s},
 J(a){var s,r,q=null,p=A.apX(0,A.FY(B.fA,"https://i.imgur.com/KBv4ITQ.jpg")),o=A.cY(q,q,B.j,q,q,q,q,q,q),n=t.D,m=A.a([B.Mn],n)
 for(s=t.uI,r=0;r<200;++r)m.push(new A.N0(new A.af7(a,A.a([],s)).a92(),q))
-return new A.Ht(A.hX(B.xx,A.a([new A.FE("https://i.imgur.com/bwtWhD1.jpg",q),new A.fr(B.E,q,q,new A.eG(B.y8,A.hX(B.aV,A.a([p,o,new A.Hc(m,B.ax,!1,q,!0,B.E2,q,!1,q,0,q,q,B.az,B.Lk,q,B.a3,q),A.atw(B.R1,new A.ai7(this,a),q)],n),B.bE),q),q)],n),B.l6),q)}}
+return new A.Ht(A.hX(B.xx,A.a([new A.FE("https://i.imgur.com/bwtWhD1.jpg",q),new A.fr(B.E,q,q,new A.eG(B.y8,A.hX(B.aV,A.a([p,o,new A.Hc(m,B.ax,!1,q,!0,B.E2,q,!1,q,0,1000,q,B.az,B.Lk,q,B.a3,q),A.atw(B.R1,new A.ai7(this,a),q)],n),B.bE),q),q)],n),B.l6),q)}}
 A.ai7.prototype={
 $0(){var s,r=A.hM(this.b)
 if(r!=null){r=B.c.gbS(r.d)
@@ -75079,7 +75079,7 @@ A.af7.prototype={
 a92(){var s=null,r=t.D
 return A.a([new A.N_(A.t5(B.R,s,A.cY(s,s,s,s,B.yc,s,s,s,s),B.J,s,5,s,s,s,s,s,B.cv),s),new A.JS(A.a([A.ave(A.avd(A.a([B.Fm,A.cY(s,s,B.l,s,s,1,s,s,s)],r),!1,!1)),new A.AH(B.EO,new A.AF(new A.af8(),s),s),new A.n6(A.cY(s,s,B.l,s,s,1,s,s,s),s),new A.AH(B.EH,new A.AF(new A.af9(this),s),s)],r),s)],r)}}
 A.af8.prototype={
-$2(a,b){var s,r=null,q="fix We transform the way people work by putting clients at the center of business solutions. Our disruptive model converts possibilities into real business value. Let\u2019s build a better tomorrow.",p="MyKumbhSans",o=Math.min(Math.max(b.w/30,20),30),n=q[0]
+$2(a,b){var s,r=null,q="cache We transform the way people work by putting clients at the center of business solutions. Our disruptive model converts possibilities into real business value. Let\u2019s build a better tomorrow.",p="MyKumbhSans",o=Math.min(Math.max(b.w/30,20),30),n=q[0]
 n=A.fR(r,A.iS(r,r,B.l,r,r,r,r,r,p,r,r,o+15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),n)
 s=B.b.b7(q,1)
 return new A.n6(A.aq3(r,r,B.cM,r,r,!0,r,A.fR(A.a([n,A.fR(r,A.iS(r,r,B.l,r,r,r,r,r,p,r,r,o,r,r,r,r,r,!0,r,2,r,r,r,r,r,r),s)],t.VO),r,r),B.lk,r,r,1,B.aT),r)},

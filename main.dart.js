@@ -74866,24 +74866,24 @@ lS(a,b){var s=b.dH($.WY(),t.LO)
 return new A.d8(null,a.S(t.w).f.a.b-56,A.dX(B.a2,A.a([A.ij(B.b7,"https://i.imgur.com/nlql40f.png"),B.DI],t.p),B.ld),s)}}
 A.GV.prototype={
 I(a){var s=null,r=t.p
-return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/rntzYAz.jpg")),A.bQ(s,s,A.as(B.d.aK(229.5),0,117,133),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.MG,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O6,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
+return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/adDB3yf.png")),A.bQ(s,s,A.as(B.d.aK(229.5),0,117,133),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.MG,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O6,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
 A.GW.prototype={
 I(a){var s=null,r=t.p
-return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/l0dBGNO.jpg")),A.bQ(s,s,A.as(B.d.aK(229.5),1,86,214),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.ML,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O4,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
+return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/lqNFSxt.png")),A.bQ(s,s,A.as(B.d.aK(229.5),1,86,214),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.ML,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O4,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
 A.Ij.prototype={
 I(a){var s=null,r=t.p
-return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/FEm1CWn.jpg")),A.bQ(s,s,A.as(B.d.aK(229.5),33,150,243),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.MJ,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O8,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
+return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/QrFKq4M.png")),A.bQ(s,s,A.as(B.d.aK(229.5),33,150,243),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.MJ,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O8,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
 A.Ji.prototype={
 I(a){var s=null,r=t.p
-return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/YRg3UZZ.jpg")),A.bQ(s,s,A.as(242,0,80,154),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.MK,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O3,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
+return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/HRnZVV9.png")),A.bQ(s,s,A.as(242,0,80,154),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.MK,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O3,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
 A.JX.prototype={
 I(a){var s=null,r=t.p
-return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/tZGMoAv.png")),A.bQ(s,s,A.as(B.d.aK(229.5),50,84,88),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.ME,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O7,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
+return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/y4D6xg4.png")),A.bQ(s,s,A.as(B.d.aK(229.5),50,84,88),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.ME,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O7,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
 A.NO.prototype={
 I(a){var s=null,r=t.p
-return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/Hy6mFH1.jpg")),A.bQ(s,s,A.as(B.d.aK(229.5),3,75,142),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.MF,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O5,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
+return A.nh(A.a([A.ng(new A.dw(A.hH(B.H,s,A.dX(B.a2,A.a([A.mU(0,A.ij(B.b7,"https://i.imgur.com/eovAxPW.png")),A.bQ(s,s,A.as(B.d.aK(229.5),3,75,142),s,s,s,s,s,s)],r),B.ai),B.t,s,10,s,s,s,s,s,B.aM),s)),A.hh(A.a([B.MF,new A.cr(new A.bg(B.cx,new A.cC(B.r,s,s,new A.cD(B.bz,A.iO(s,s,B.a7,s,s,!0,s,B.O5,B.b0,s,s,1,B.U),s),s),s),s)],r))],r))}}
 A.Ot.prototype={
-I(a){return A.hh(A.a([new A.rM("1We transform the way people work by putting clients at the center of business solutions. Our disruptive model converts possibilities into real business value. Let\u2019s build a better tomorrow.","https://i.imgur.com/c6hvv7A.png",B.HC,null),B.EX,B.FH,B.zN,B.K7,B.zO,B.NG],t.p))}}
+I(a){return A.hh(A.a([new A.rM("We transform the way people work by putting clients at the center of business solutions. Our disruptive model converts possibilities into real business value. Let\u2019s build a better tomorrow.","https://i.imgur.com/c6hvv7A.png",B.HC,null),B.EX,B.FH,B.zN,B.K7,B.zO,B.NG],t.p))}}
 A.js.prototype={
 I(a){var s=null,r=A.m6(25)
 return new A.bg(B.EB,A.ra(A.a([new A.bg(B.ED,A.a1A(B.r,A.bQ(s,new A.GN(A.m6(25),A.ij(B.b7,this.e),s),s,B.yf,new A.eK(B.i,s,s,r,s,s,B.aD),400,s,s,400),B.t,B.dY),s),A.a1A(B.r,A.av_(this.c,"MyKumbhSans",30),B.t,B.dY),A.bQ(s,s,B.k,s,s,1,s,B.EE,300),A.a1A(B.r,A.av_(this.d,"Montserrat",25),B.t,B.dY)],t.p),B.b8,B.bn,B.b9,B.b3),s)}}
